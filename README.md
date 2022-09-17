@@ -1,1 +1,1 @@
-# Numpy
+# Numpy and its types
